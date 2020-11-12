@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ZHTAndroidDemo</string>
+
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">传播</string>
+    <string name="title_notifications">消息</string>
+    <string name="title_my">我的</string>
+
+
+    <string name="tab_new_name">消息</string>
+    <string name="tab_new_name_im">聊天</string>
+
+    <string name="business_date_update">%1$s&#160;%2$s</string>
+    <string name="number_of_business_opportunities_today">今日商机%1$d条</string>
+    <string name="number_of_unread_opportunities">未读商机%1$d条</string>
+</resources>
